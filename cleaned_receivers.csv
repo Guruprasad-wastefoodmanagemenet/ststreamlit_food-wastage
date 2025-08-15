@@ -1,0 +1,41 @@
+Receiver_ID,Name,Type,City,Contact
+1,Receiver 1,Individual,Chennai,+91-8889302112
+2,Receiver 2,Community Center,Pune,+91-8244629616
+3,Receiver 3,Individual,Delhi,+91-9240208358
+4,Receiver 4,Community Center,Mumbai,+91-8301654537
+5,Receiver 5,NGO,Delhi,+91-7204189867
+6,Receiver 6,Community Center,Chennai,+91-7826283551
+7,Receiver 7,Individual,Mumbai,+91-8644176336
+8,Receiver 8,Community Center,Bengaluru,+91-6783683481
+9,Receiver 9,NGO,Chennai,+91-7948397294
+10,Receiver 10,NGO,Pune,+91-7922613973
+11,Receiver 11,Community Center,Pune,+91-9509504320
+12,Receiver 12,Community Center,Mumbai,+91-7822736954
+13,Receiver 13,Community Center,Delhi,+91-8808536318
+14,Receiver 14,Individual,Bengaluru,+91-6348401402
+15,Receiver 15,NGO,Mumbai,+91-9313520540
+16,Receiver 16,NGO,Chennai,+91-6807452663
+17,Receiver 17,Individual,Delhi,+91-7252595044
+18,Receiver 18,Individual,Delhi,+91-7235436716
+19,Receiver 19,Individual,Pune,+91-8348553395
+20,Receiver 20,NGO,Delhi,+91-8292269610
+21,Receiver 21,Individual,Pune,+91-6135289607
+22,Receiver 22,NGO,Hyderabad,+91-7579389839
+23,Receiver 23,Individual,Chennai,+91-6373255634
+24,Receiver 24,Individual,Mumbai,+91-9742038764
+25,Receiver 25,Individual,Mumbai,+91-6199601856
+26,Receiver 26,NGO,Hyderabad,+91-6206170889
+27,Receiver 27,Community Center,Delhi,+91-8944802488
+28,Receiver 28,Community Center,Bengaluru,+91-8860438960
+29,Receiver 29,Individual,Pune,+91-9677975723
+30,Receiver 30,Individual,Mumbai,+91-7449426581
+31,Receiver 31,Community Center,Pune,+91-6488032489
+32,Receiver 32,Community Center,Bengaluru,+91-9918884458
+33,Receiver 33,Community Center,Pune,+91-6320989340
+34,Receiver 34,Individual,Chennai,+91-9408018781
+35,Receiver 35,NGO,Pune,+91-7486838333
+36,Receiver 36,Community Center,Bengaluru,+91-8995945140
+37,Receiver 37,NGO,Delhi,+91-6192094175
+38,Receiver 38,NGO,Mumbai,+91-9599071068
+39,Receiver 39,Individual,Pune,+91-9570791994
+40,Receiver 40,Community Center,Chennai,+91-8626679728
