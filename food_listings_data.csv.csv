@@ -1,0 +1,81 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Veg Pulao,46,2025-08-17,18,Supermarket,Chennai,Vegetarian,Dinner
+2,Dosa,51,2025-08-13,17,Restaurant,Chennai,Vegetarian,Dinner
+3,Idli,100,2025-08-18,8,Grocery Store,Hyderabad,Non-Vegetarian,Dinner
+4,Veg Pulao,82,2025-08-17,23,Restaurant,Bengaluru,Vegetarian,Breakfast
+5,Veg Sandwich,34,2025-08-12,25,Grocery Store,Pune,Vegetarian,Dinner
+6,Sambar Rice,9,2025-08-15,22,Grocery Store,Pune,Vegetarian,Breakfast
+7,Veg Biryani,117,2025-08-14,5,Grocery Store,Bengaluru,Vegetarian,Dinner
+8,Sambar Rice,80,2025-08-17,15,Restaurant,Mumbai,Non-Vegetarian,Snacks
+9,Curd Rice,75,2025-08-14,4,Restaurant,Hyderabad,Non-Vegetarian,Breakfast
+10,Paneer Curry,19,2025-08-12,17,Restaurant,Chennai,Vegetarian,Lunch
+11,Sambar Rice,92,2025-08-13,24,Restaurant,Pune,Vegetarian,Snacks
+12,Veg Biryani,60,2025-08-15,15,Restaurant,Pune,Vegetarian,Lunch
+13,Sambar Rice,82,2025-08-14,13,Supermarket,Bengaluru,Non-Vegetarian,Dinner
+14,Veg Biryani,91,2025-08-14,5,Grocery Store,Delhi,Non-Vegetarian,Lunch
+15,Sambar Rice,104,2025-08-14,17,Restaurant,Mumbai,Vegetarian,Lunch
+16,Idli,1,2025-08-16,9,Supermarket,Delhi,Vegan,Snacks
+17,Curd Rice,73,2025-08-15,22,Grocery Store,Pune,Vegetarian,Breakfast
+18,Sambar Rice,14,2025-08-16,1,Restaurant,Delhi,Vegetarian,Lunch
+19,Paneer Curry,25,2025-08-12,8,Grocery Store,Delhi,Vegetarian,Breakfast
+20,Idli,13,2025-08-14,12,Restaurant,Bengaluru,Non-Vegetarian,Lunch
+21,Dal Fry,50,2025-08-14,6,Supermarket,Pune,Vegan,Dinner
+22,Chapati,99,2025-08-12,13,Supermarket,Hyderabad,Vegetarian,Dinner
+23,Curd Rice,68,2025-08-14,2,Grocery Store,Pune,Vegetarian,Lunch
+24,Veg Sandwich,97,2025-08-12,22,Grocery Store,Chennai,Vegetarian,Dinner
+25,Curd Rice,91,2025-08-14,21,Restaurant,Pune,Vegetarian,Dinner
+26,Sambar Rice,82,2025-08-12,18,Supermarket,Mumbai,Non-Vegetarian,Snacks
+27,Chapati,76,2025-08-17,23,Restaurant,Delhi,Vegetarian,Lunch
+28,Idli,2,2025-08-16,22,Grocery Store,Hyderabad,Vegetarian,Dinner
+29,Dal Fry,38,2025-08-12,7,Restaurant,Bengaluru,Vegetarian,Lunch
+30,Chapati,38,2025-08-16,12,Restaurant,Mumbai,Vegetarian,Breakfast
+31,Dosa,55,2025-08-13,25,Grocery Store,Bengaluru,Vegetarian,Dinner
+32,Paneer Curry,113,2025-08-16,6,Supermarket,Mumbai,Vegetarian,Breakfast
+33,Chapati,74,2025-08-16,5,Grocery Store,Mumbai,Vegetarian,Lunch
+34,Dal Fry,92,2025-08-17,23,Restaurant,Bengaluru,Non-Vegetarian,Breakfast
+35,Veg Sandwich,84,2025-08-13,1,Restaurant,Bengaluru,Vegetarian,Lunch
+36,Veg Sandwich,44,2025-08-12,23,Restaurant,Pune,Vegetarian,Breakfast
+37,Dal Fry,51,2025-08-13,3,Supermarket,Bengaluru,Vegetarian,Lunch
+38,Dal Fry,85,2025-08-12,11,Supermarket,Delhi,Vegetarian,Breakfast
+39,Paneer Curry,67,2025-08-14,14,Restaurant,Hyderabad,Vegetarian,Dinner
+40,Veg Biryani,112,2025-08-18,4,Restaurant,Delhi,Vegetarian,Lunch
+41,Paneer Curry,9,2025-08-18,2,Grocery Store,Hyderabad,Vegetarian,Dinner
+42,Curd Rice,63,2025-08-14,7,Restaurant,Pune,Vegetarian,Lunch
+43,Paneer Curry,85,2025-08-12,8,Grocery Store,Pune,Vegetarian,Lunch
+44,Chapati,58,2025-08-14,17,Restaurant,Pune,Vegetarian,Breakfast
+45,Paneer Curry,49,2025-08-16,17,Restaurant,Bengaluru,Vegetarian,Dinner
+46,Idli,75,2025-08-16,5,Grocery Store,Bengaluru,Vegetarian,Lunch
+47,Veg Sandwich,33,2025-08-13,24,Restaurant,Pune,Vegetarian,Dinner
+48,Veg Biryani,110,2025-08-14,1,Restaurant,Mumbai,Vegetarian,Lunch
+49,Dal Fry,67,2025-08-12,19,Supermarket,Mumbai,Vegetarian,Dinner
+50,Idli,23,2025-08-12,10,Supermarket,Hyderabad,Vegetarian,Snacks
+51,Dosa,68,2025-08-14,7,Restaurant,Pune,Vegetarian,Dinner
+52,Veg Sandwich,42,2025-08-15,18,Supermarket,Delhi,Vegan,Lunch
+53,Veg Sandwich,29,2025-08-18,3,Supermarket,Pune,Vegetarian,Lunch
+54,Paneer Curry,54,2025-08-16,15,Restaurant,Mumbai,Vegetarian,Breakfast
+55,Chapati,80,2025-08-13,15,Restaurant,Delhi,Non-Vegetarian,Breakfast
+56,Dal Fry,117,2025-08-15,3,Supermarket,Bengaluru,Vegetarian,Snacks
+57,Paneer Curry,46,2025-08-17,9,Supermarket,Hyderabad,Vegetarian,Lunch
+58,Sambar Rice,103,2025-08-18,14,Restaurant,Mumbai,Vegetarian,Lunch
+59,Dosa,74,2025-08-17,10,Supermarket,Bengaluru,Vegetarian,Lunch
+60,Veg Pulao,106,2025-08-12,8,Grocery Store,Pune,Vegetarian,Lunch
+61,Curd Rice,42,2025-08-16,19,Supermarket,Chennai,Vegan,Dinner
+62,Veg Biryani,37,2025-08-18,21,Restaurant,Pune,Vegetarian,Dinner
+63,Veg Pulao,41,2025-08-16,24,Restaurant,Mumbai,Vegetarian,Breakfast
+64,Dal Fry,13,2025-08-15,24,Restaurant,Pune,Non-Vegetarian,Lunch
+65,Paneer Curry,99,2025-08-15,16,Restaurant,Bengaluru,Vegetarian,Breakfast
+66,Curd Rice,37,2025-08-12,14,Restaurant,Pune,Vegetarian,Breakfast
+67,Veg Biryani,87,2025-08-15,2,Grocery Store,Chennai,Non-Vegetarian,Dinner
+68,Curd Rice,70,2025-08-17,1,Restaurant,Hyderabad,Vegetarian,Breakfast
+69,Sambar Rice,60,2025-08-18,2,Grocery Store,Hyderabad,Non-Vegetarian,Dinner
+70,Dal Fry,80,2025-08-16,25,Grocery Store,Mumbai,Vegetarian,Dinner
+71,Chapati,4,2025-08-16,8,Grocery Store,Delhi,Vegetarian,Lunch
+72,Curd Rice,38,2025-08-14,5,Grocery Store,Delhi,Non-Vegetarian,Dinner
+73,Idli,115,2025-08-17,11,Supermarket,Bengaluru,Vegetarian,Lunch
+74,Veg Sandwich,87,2025-08-13,16,Restaurant,Hyderabad,Vegetarian,Breakfast
+75,Dal Fry,47,2025-08-18,23,Restaurant,Delhi,Vegetarian,Dinner
+76,Veg Sandwich,15,2025-08-14,12,Restaurant,Pune,Non-Vegetarian,Lunch
+77,Dal Fry,101,2025-08-14,2,Grocery Store,Mumbai,Vegetarian,Snacks
+78,Veg Pulao,20,2025-08-12,21,Restaurant,Hyderabad,Vegetarian,Dinner
+79,Veg Sandwich,51,2025-08-18,9,Supermarket,Delhi,Vegetarian,Breakfast
+80,Paneer Curry,109,2025-08-14,24,Restaurant,Chennai,Vegetarian,Lunch
